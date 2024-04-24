@@ -1,0 +1,12 @@
+C:\Users\UCSE\Documents\Emanuel C#\PracticaEier23-04\biblioteca\bin\Debug\net7.0\biblioteca.deps.json
+C:\Users\UCSE\Documents\Emanuel C#\PracticaEier23-04\biblioteca\bin\Debug\net7.0\biblioteca.dll
+C:\Users\UCSE\Documents\Emanuel C#\PracticaEier23-04\biblioteca\bin\Debug\net7.0\biblioteca.pdb
+C:\Users\UCSE\Documents\Emanuel C#\PracticaEier23-04\biblioteca\obj\Debug\net7.0\biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UCSE\Documents\Emanuel C#\PracticaEier23-04\biblioteca\obj\Debug\net7.0\biblioteca.AssemblyInfoInputs.cache
+C:\Users\UCSE\Documents\Emanuel C#\PracticaEier23-04\biblioteca\obj\Debug\net7.0\biblioteca.AssemblyInfo.cs
+C:\Users\UCSE\Documents\Emanuel C#\PracticaEier23-04\biblioteca\obj\Debug\net7.0\biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\UCSE\Documents\Emanuel C#\PracticaEier23-04\biblioteca\obj\Debug\net7.0\biblioteca.sourcelink.json
+C:\Users\UCSE\Documents\Emanuel C#\PracticaEier23-04\biblioteca\obj\Debug\net7.0\biblioteca.dll
+C:\Users\UCSE\Documents\Emanuel C#\PracticaEier23-04\biblioteca\obj\Debug\net7.0\refint\biblioteca.dll
+C:\Users\UCSE\Documents\Emanuel C#\PracticaEier23-04\biblioteca\obj\Debug\net7.0\biblioteca.pdb
+C:\Users\UCSE\Documents\Emanuel C#\PracticaEier23-04\biblioteca\obj\Debug\net7.0\ref\biblioteca.dll
